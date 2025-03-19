@@ -1,0 +1,15 @@
+{
+"cacheFolder": "./.yarn/cache",
+
+"changesetBaseRefs": [
+  "master",
+  "origin/master",
+  "upstream/master",
+  "main",
+  "origin/main",
+  "upstream/main"
+],
+
+"checksumBehavior": "update",
+"npmAlwaysAuth": true
+}
